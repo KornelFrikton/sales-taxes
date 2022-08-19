@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sales-taxes/static/css/main.b9d9a7a6.css",
+    "main.js": "/sales-taxes/static/js/main.d0a9f97a.js",
+    "static/js/787.e6adcf6d.chunk.js": "/sales-taxes/static/js/787.e6adcf6d.chunk.js",
+    "index.html": "/sales-taxes/index.html",
+    "main.b9d9a7a6.css.map": "/sales-taxes/static/css/main.b9d9a7a6.css.map",
+    "main.d0a9f97a.js.map": "/sales-taxes/static/js/main.d0a9f97a.js.map",
+    "787.e6adcf6d.chunk.js.map": "/sales-taxes/static/js/787.e6adcf6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9d9a7a6.css",
+    "static/js/main.d0a9f97a.js"
+  ]
+}
